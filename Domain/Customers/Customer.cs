@@ -7,6 +7,13 @@ public sealed class Customer : AggregateRoot
 {
     public Customer(CustomerId id, string name, string lastname, string email, PhoneNumber phoneNumber, Address address, bool active)
     {
+        Id = id;
+        Name = name;
+        Lastname = lastname;
+        Email = email;
+        PhoneNumber = phoneNumber;
+        Address = address;
+        Active = active;
     }
 
     private Customer()
@@ -14,7 +21,7 @@ public sealed class Customer : AggregateRoot
 
     }
 
-    public CustomerId customerId { get; private set; }
+    public CustomerId Id { get; private set; }
     public string Name { get; private set; } = string.Empty;
     public string Lastname { get; private set; } = string.Empty;
     public string FullName => $"{Name} {Lastname}";

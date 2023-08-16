@@ -8,7 +8,7 @@ public abstract class AggregateRoot
 
     protected void Raise(DomainEvent domainEvent)
     {
-        _domainEvents.Add(domainEvent)
+        _domainEvents.Add(domainEvent);
     }
 }
 
