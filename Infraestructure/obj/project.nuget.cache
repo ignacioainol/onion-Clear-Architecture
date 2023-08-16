@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hpxfaw8svJbZrWi5J6NrPtZfVmu6tdqLV7MVDP6Z9nRkWI2jsLrqtgfJU1N+a5H1kVNy+1/s/h8xEEVg5SNpZw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\crs80215\\Documents\\repos\\new-onion-architecture\\EasyPOS\\Infraestructure\\Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crs80215\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\crs80215\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
