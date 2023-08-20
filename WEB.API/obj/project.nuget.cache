@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MMMqs4J8c0wOF4zRjs8lfeWaXpwqJV3Vjlqe/9o6aa7EQJ8Wi2wjeRbWYuEIKkVe/Ebt4FontZJsL0O4PF7tMw==",
+  "dgSpecHash": "f7QDLAhWWNjiqX4RM7NVaAMMG7a6uLotNSPXsvTyIJCWMT9zvsQX31/r/Ea2oiWGvQfW6iJF2esb8l29Isa19w==",
   "success": true,
   "projectFilePath": "c:\\Users\\crs80215\\Documents\\repos\\new-onion-architecture\\EasyPOS\\WEB.API\\WEB.API.csproj",
   "expectedPackageFiles": [
@@ -13,9 +13,11 @@
     "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
     "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.10\\microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",
+    "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.10\\microsoft.entityframeworkcore.relational.7.0.10.nupkg.sha512",
     "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\crs80215\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
